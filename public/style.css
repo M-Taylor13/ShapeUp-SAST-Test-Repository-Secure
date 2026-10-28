@@ -1,0 +1,15 @@
+* { box-sizing: border-box; }
+body { margin: 0; background: #f6f5f1; color: #29352f; font: 16px/1.7 system-ui, sans-serif; }
+main { max-width: 720px; margin: 48px auto; padding: 0 24px; }
+header { margin-bottom: 32px; }
+h1 { margin: 0; font-size: 44px; letter-spacing: -2px; }
+h2 { margin: 0 0 8px; font-size: 23px; }
+p { margin: 0 0 12px; }
+.eyebrow, .date { color: #65776c; font-size: 12px; letter-spacing: 1px; }
+form { margin-bottom: 24px; }
+label { display: block; margin-bottom: 8px; font-weight: 600; }
+.search { display: flex; gap: 8px; }
+input { min-width: 0; flex: 1; padding: 12px; border: 1px solid #cdd5cf; border-radius: 6px; font: inherit; }
+button { padding: 10px 20px; border: 0; border-radius: 6px; background: #345e48; color: white; font: inherit; cursor: pointer; }
+article { margin: 18px 0; padding: 24px; background: white; border: 1px solid #e2e7e3; border-radius: 8px; }
+footer { margin-top: 32px; color: #65776c; font-size: 13px; }
